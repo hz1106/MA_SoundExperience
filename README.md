@@ -1,3 +1,3 @@
 # MA_SoundExperience
 
-This my new VR project
+This is my new VR project
